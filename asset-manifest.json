@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PoultryErpTask/static/css/main.95a6de41.chunk.css",
-    "main.js": "/PoultryErpTask/static/js/main.c225f3d2.chunk.js",
-    "main.js.map": "/PoultryErpTask/static/js/main.c225f3d2.chunk.js.map",
-    "runtime-main.js": "/PoultryErpTask/static/js/runtime-main.bee6c636.js",
-    "runtime-main.js.map": "/PoultryErpTask/static/js/runtime-main.bee6c636.js.map",
-    "static/js/2.0046b8d3.chunk.js": "/PoultryErpTask/static/js/2.0046b8d3.chunk.js",
-    "static/js/2.0046b8d3.chunk.js.map": "/PoultryErpTask/static/js/2.0046b8d3.chunk.js.map",
-    "index.html": "/PoultryErpTask/index.html",
-    "precache-manifest.abc55bd87880dcb054048581c0f2454b.js": "/PoultryErpTask/precache-manifest.abc55bd87880dcb054048581c0f2454b.js",
-    "service-worker.js": "/PoultryErpTask/service-worker.js",
-    "static/css/main.95a6de41.chunk.css.map": "/PoultryErpTask/static/css/main.95a6de41.chunk.css.map",
-    "static/js/2.0046b8d3.chunk.js.LICENSE.txt": "/PoultryErpTask/static/js/2.0046b8d3.chunk.js.LICENSE.txt"
+    "main.css": "/PoultryERPTask/static/css/main.95a6de41.chunk.css",
+    "main.js": "/PoultryERPTask/static/js/main.0d0f9281.chunk.js",
+    "main.js.map": "/PoultryERPTask/static/js/main.0d0f9281.chunk.js.map",
+    "runtime-main.js": "/PoultryERPTask/static/js/runtime-main.6772302a.js",
+    "runtime-main.js.map": "/PoultryERPTask/static/js/runtime-main.6772302a.js.map",
+    "static/js/2.b801a026.chunk.js": "/PoultryERPTask/static/js/2.b801a026.chunk.js",
+    "static/js/2.b801a026.chunk.js.map": "/PoultryERPTask/static/js/2.b801a026.chunk.js.map",
+    "index.html": "/PoultryERPTask/index.html",
+    "precache-manifest.f31aabda1a904924f54f6e5067638452.js": "/PoultryERPTask/precache-manifest.f31aabda1a904924f54f6e5067638452.js",
+    "service-worker.js": "/PoultryERPTask/service-worker.js",
+    "static/css/main.95a6de41.chunk.css.map": "/PoultryERPTask/static/css/main.95a6de41.chunk.css.map",
+    "static/js/2.b801a026.chunk.js.LICENSE.txt": "/PoultryERPTask/static/js/2.b801a026.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bee6c636.js",
-    "static/js/2.0046b8d3.chunk.js",
+    "static/js/runtime-main.6772302a.js",
+    "static/js/2.b801a026.chunk.js",
     "static/css/main.95a6de41.chunk.css",
-    "static/js/main.c225f3d2.chunk.js"
+    "static/js/main.0d0f9281.chunk.js"
   ]
 }
