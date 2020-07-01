@@ -129,12 +129,12 @@ const newPayment ={
         otherinfo:values.other,
 }
 
-payments.push(newPayment)
 const abc = total.filter(a => a.name===values.name)
 if(abc.length==0){
         alert("No such costumer exist in your Data")
 }
 else{
+        payments.push(newPayment)
         total.filter(a => a.name===values.name)[0].notranx=abc[0].notranx+1;
         total.filter(a => a.name===values.name)[0].totalamt=abc[0].totalamt+parseInt(values.amt);
 }
