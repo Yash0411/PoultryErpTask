@@ -14,7 +14,8 @@ class Home extends Component {
                 Modifications can be bade and the pages can be made more Dynamic as per we need. 
                 <br/>
                 Frontend is not connected to a permanent database as the application is for trial purposes and hence prevent the database accumulation at this point but the code is ready and is in the commented format in the action creaters file.
-                
+                <br/>
+                Alerts have been used at various places for confirmation of data pushing and proper data updating in the database which will help in proper validation.
             </div>
         )
     }
