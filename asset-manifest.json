@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PoultryERPTask/static/css/main.95a6de41.chunk.css",
-    "main.js": "/PoultryERPTask/static/js/main.bb7b5839.chunk.js",
-    "main.js.map": "/PoultryERPTask/static/js/main.bb7b5839.chunk.js.map",
+    "main.js": "/PoultryERPTask/static/js/main.eb765aec.chunk.js",
+    "main.js.map": "/PoultryERPTask/static/js/main.eb765aec.chunk.js.map",
     "runtime-main.js": "/PoultryERPTask/static/js/runtime-main.6772302a.js",
     "runtime-main.js.map": "/PoultryERPTask/static/js/runtime-main.6772302a.js.map",
     "static/js/2.e87c46e1.chunk.js": "/PoultryERPTask/static/js/2.e87c46e1.chunk.js",
     "static/js/2.e87c46e1.chunk.js.map": "/PoultryERPTask/static/js/2.e87c46e1.chunk.js.map",
     "index.html": "/PoultryERPTask/index.html",
-    "precache-manifest.134121f34bc067be017e3d9653ce3111.js": "/PoultryERPTask/precache-manifest.134121f34bc067be017e3d9653ce3111.js",
+    "precache-manifest.6649b3f38350e05c2a912f05c41deffe.js": "/PoultryERPTask/precache-manifest.6649b3f38350e05c2a912f05c41deffe.js",
     "service-worker.js": "/PoultryERPTask/service-worker.js",
     "static/css/main.95a6de41.chunk.css.map": "/PoultryERPTask/static/css/main.95a6de41.chunk.css.map",
     "static/js/2.e87c46e1.chunk.js.LICENSE.txt": "/PoultryERPTask/static/js/2.e87c46e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6772302a.js",
     "static/js/2.e87c46e1.chunk.js",
     "static/css/main.95a6de41.chunk.css",
-    "static/js/main.bb7b5839.chunk.js"
+    "static/js/main.eb765aec.chunk.js"
   ]
 }

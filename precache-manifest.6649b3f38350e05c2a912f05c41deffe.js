@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "843536ba44ecc862b3bd9201edc9089c",
+    "revision": "25991f0cb66c3f6cc468d805f516f696",
     "url": "/PoultryERPTask/index.html"
   },
   {
-    "revision": "3e2a5f9bdee42cc6cc0d",
+    "revision": "4666d8535b297e250a34",
     "url": "/PoultryERPTask/static/css/main.95a6de41.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PoultryERPTask/static/js/2.e87c46e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e2a5f9bdee42cc6cc0d",
-    "url": "/PoultryERPTask/static/js/main.bb7b5839.chunk.js"
+    "revision": "4666d8535b297e250a34",
+    "url": "/PoultryERPTask/static/js/main.eb765aec.chunk.js"
   },
   {
     "revision": "965ec55553e2c5790999",
