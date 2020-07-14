@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b2938baba948474b01626421f34189f",
+    "revision": "94c034bbf57368de62a0dbabc27bf699",
     "url": "/PoultryERPTask/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PoultryERPTask/static/css/2.329289be.chunk.css"
   },
   {
-    "revision": "e8a9ce35772e57ad7e56",
+    "revision": "125fe5d01ffe0b7ec98a",
     "url": "/PoultryERPTask/static/css/main.ccb75f35.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PoultryERPTask/static/js/2.5e218c65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8a9ce35772e57ad7e56",
-    "url": "/PoultryERPTask/static/js/main.6a1c58d1.chunk.js"
+    "revision": "125fe5d01ffe0b7ec98a",
+    "url": "/PoultryERPTask/static/js/main.e7eb4e35.chunk.js"
   },
   {
     "revision": "965ec55553e2c5790999",
