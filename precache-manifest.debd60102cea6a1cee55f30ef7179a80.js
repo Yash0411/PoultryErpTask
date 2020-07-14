@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e374fe98ac872a7b22698149e485bae",
+    "revision": "3b2938baba948474b01626421f34189f",
     "url": "/PoultryERPTask/index.html"
   },
   {
-    "revision": "e6705c6ef887942c5d7a",
+    "revision": "fb6d87aa425d41a5851b",
     "url": "/PoultryERPTask/static/css/2.329289be.chunk.css"
   },
   {
-    "revision": "79836193c4db0c65f1c3",
+    "revision": "e8a9ce35772e57ad7e56",
     "url": "/PoultryERPTask/static/css/main.ccb75f35.chunk.css"
   },
   {
-    "revision": "e6705c6ef887942c5d7a",
-    "url": "/PoultryERPTask/static/js/2.b46136c7.chunk.js"
+    "revision": "fb6d87aa425d41a5851b",
+    "url": "/PoultryERPTask/static/js/2.5e218c65.chunk.js"
   },
   {
     "revision": "3a5359d431b8190dc2f36e4703f39768",
-    "url": "/PoultryERPTask/static/js/2.b46136c7.chunk.js.LICENSE.txt"
+    "url": "/PoultryERPTask/static/js/2.5e218c65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79836193c4db0c65f1c3",
-    "url": "/PoultryERPTask/static/js/main.6cad52d5.chunk.js"
+    "revision": "e8a9ce35772e57ad7e56",
+    "url": "/PoultryERPTask/static/js/main.6a1c58d1.chunk.js"
   },
   {
     "revision": "965ec55553e2c5790999",
