@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PoultryERPTask/precache-manifest.eb5ed6b1ae5cfb5cdadc2b9d5bc68014.js"
+  "/PoultryERPTask/precache-manifest.313ea3871569182dfdfbf32773bd885f.js"
 );
 
 self.addEventListener('message', (event) => {
